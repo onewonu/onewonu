@@ -7,3 +7,6 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onewonu&layout=compact">
 
+<br><br>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/onewonu)
