@@ -9,4 +9,4 @@
 
 <br><br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/onewonu)
+![Leetcode Stats](https://leetcard.jacoblin.cool/onewonu?ext=activity)
