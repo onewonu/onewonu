@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90"/>
+<div align="center">
+  Hi there ✋ <br>
+  
+</div>
+
+<br/>
 
 <h1 align="center"><b>Skills</b></h1>
 
@@ -59,10 +64,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onewonu&layout=compact">
-
-  <br/>
-  <br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onewonu&langs_count=10&layout=compact&theme=dark)](https://github.com/onewonu/onewonu)
   
   ![Leetcode Stats](https://leetcard.jacoblin.cool/onewonu?ext=activity)
   
