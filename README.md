@@ -65,8 +65,6 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onewonu&langs_count=10&layout=compact&theme=dark)](https://github.com/onewonu/onewonu)
-  
   ![Leetcode Stats](https://leetcard.jacoblin.cool/onewonu?ext=activity)
   
 </div>
